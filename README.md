@@ -1,2 +1,2 @@
-# Statistics---Z_test
+# Statistics-Z_test
 Statistical - Z_test
